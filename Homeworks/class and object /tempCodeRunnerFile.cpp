@@ -1,0 +1,2 @@
+
+    string elenaStr = "Smith";
